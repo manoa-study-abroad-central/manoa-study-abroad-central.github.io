@@ -1,5 +1,6 @@
 
-Welcome to Manoa Study Abroad Central!<br>The plan of the Manoa Study Abroad Central is to provide a wealth of study abroad opportunities for UH students, as finding reliable information about study abroad is not an easy task for many students.
+## Welcome to Manoa Study Abroad Central!<br>
+The plan of the Manoa Study Abroad Central is to provide a wealth of study abroad opportunities for UH students, as finding reliable information about study abroad is not an easy task for many students.
 
 ## Team Member
 • Junlang Chen<br>
