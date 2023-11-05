@@ -1,0 +1,9 @@
+# Manoa Study Abroad Central
+
+## Overview
+Welcome to Manoa Study Abroad Central! The plan of the Manoa Study Abroad Center is to provide a wealth of study abroad opportunities for UH students, as finding reliable information about study abroad is not an easy task for many students.
+
+## Development History
+-Final Project: Milestone 1
+-Final Project: Milestone 2
+-Final Project: Milestone 3
