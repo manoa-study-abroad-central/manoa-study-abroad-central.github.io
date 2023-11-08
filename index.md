@@ -22,7 +22,7 @@ The 'Add Post' page will be available for users to share their own personal expe
 <img src="doc/Admin-Home-Page-Sketch.png"><br>
 For administrators, there will be a dedicated home page for managing the platform's operations.<br><br>
 
-<img src="doc/Admin-Post-Page-Sketch.png"><br>
+<img src="doc/Admin-Post-Page-Sketch-New.png"><br>
 There will also be an 'Admin All Posts' page for monitoring and updating user contributions, ensuring the content remains relevant and useful.<br><br>
 
 Additionally, the website will provide in-depth information about the study abroad opportunities, allowing visitors to gain a thorough understanding of the options.
