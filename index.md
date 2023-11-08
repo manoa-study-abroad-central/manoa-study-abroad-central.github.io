@@ -1,4 +1,4 @@
-<img src="doc/study-abroad-clipart" alt="">
+<img src="doc/study-abroad-clipart.jpg">
 
 **Manoa Study Abroad Central Your Guide to the World**<br>
 The Manoa Study Abroad Central is a digital platform dedicated to simplifying the process of choosing a study abroad or exchange program at UH Manoa. It will be a user-friendly website designed to help students understand the various offerings available to them, including the Manoa International Exchange (MIX), Study Abroad Center, and National Student Exchange programs. The site will aim to clarify program details and provide clear comparisons to assist students in making informed decisions about their international educational experiences. It will also include testimonials from peers who have previously participated in these programs, which offer valuable insights into the benefits and potential challenges of each option.<br>
