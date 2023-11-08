@@ -13,6 +13,7 @@ Our project follows the Issue Driven Project Management (IDPM) guidelines. We wi
 
 ## Development History
 ### Final Project: Milestone 1<br>
+<img src="doc/m1workDivision.png">
 ### Final Project: Milestone 2<br>
 ### Final Project: Milestone 3<br>
 
