@@ -44,7 +44,7 @@ Our project follows the Issue Driven Project Management (IDPM) guidelines. We wi
 ### Final Project: Milestone 3<br>
 
 ## Links
-[Team Contract]([https://docs.google.com/document/d/1Yv8-43MoE4xzP9Gig0bwpPvJU8siF7iYQRA5ayEzNgk/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vTPDeqaL-Qzeyr1GeQ5G2PN0-t73p_bZC5JGTkFV3h1XIev_GJqJPn0fbRclve4C1O3-L-WauRPsu6i/pub))
+[Team Contract](https://docs.google.com/document/d/1Yv8-43MoE4xzP9Gig0bwpPvJU8siF7iYQRA5ayEzNgk/edit?usp=sharing)
 [Project Proposal](https://mair1.github.io/essays/final-project-idea.html)
 [IDPM Guidelines](https://courses.ics.hawaii.edu/ics314f23/morea/project-management/reading-guidelines-idpm.html)
 [Milestone 1](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/experience-final-project-m1.html)
