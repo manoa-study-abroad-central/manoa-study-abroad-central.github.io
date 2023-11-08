@@ -11,7 +11,7 @@ Our website's landing page will offer an overview of the platform's features and
 <img src="doc/Login-Signup-Page-Sketch.png"><br><br>
 
 <img src="doc/Program-Selection-Page-Sketch.png"><br>
-After signing in, students will then be able to select their desired destination or programs.<br><br>
+After signing in, users will then be able to select their desired destination or programs.<br><br>
 
 <img src="doc/Post-Feed-Page-Sketch.png"><br>
 Users can then navigate to the Post Feed Page, where they're invited to join the conversation through comments, like the posts, or share the post.<br><br>
