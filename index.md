@@ -8,21 +8,21 @@ Manoa Study Abroad Central is a digital platform dedicated to simplifying the pr
 <img src="doc/Landing-Page-Sketch.png"><br>
 Our website's landing page will offer an overview of the platform's features and services. Here, users will be able to click a link that will take them to the login/signup page.<br>
 
-<img src="doc/Login-Signup-Page.png"><br>
+<img src="doc/Login-Signup-Page-Sketch.png"><br>
 
-<img src="doc/Program-Selection-Page.png"><br>
+<img src="doc/Program-Selection-Page-Sketch.png"><br>
 After signing in, students will then be able to select their desired destination or programs.<br>
 
-<img src="doc/Post-Feed-Page.png"><br>
+<img src="doc/Post-Feed-Page-Sketch.png"><br>
 Users can then navigate to the Post Feed Page, where they're invited to join the conversation through comments, like the posts, or share the post.<br>
 
-<img src="doc/Add-Post-Page.png"><br>
+<img src="doc/Add-Post-Page-Sketch.png"><br>
 The 'Add Post' page will be available for students to share their own personal experiences.<br>
 
-<img src="doc/Admin-Home-Page.png"><br>
+<img src="doc/Admin-Home-Page-Sketch.png"><br>
 For administrators, there will be a dedicated home page for managing the platform's operations.
 
-<img src="doc/Admin-Post-Page.png"><br>
+<img src="doc/Admin-Post-Page-Sketch.png"><br>
 There will also be an 'Admin All Posts' page for monitoring and updating user contributions, ensuring the content remains relevant and useful.<br>
 
 Additionally, the website will provide in-depth information about the study abroad opportunities, allowing visitors to gain a thorough understanding of the options.
