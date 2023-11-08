@@ -28,4 +28,4 @@ Our project follows the Issue Driven Project Management (IDPM) guidelines. We wi
 [Milestone 1](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/experience-final-project-m1.html)
 [Milestone 2](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/experience-final-project-m2.html)
 [Milestone 3](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/experience-final-project-m3.html)
-[GitHub Link](https://github.com/manoa-study-abroad-central/manoa-study-abroad-central.github.io)
+
