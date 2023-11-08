@@ -17,7 +17,7 @@ After signing in, students will then be able to select their desired destination
 Users can then navigate to the Post Feed Page, where they're invited to join the conversation through comments, like the posts, or share the post.<br><br>
 
 <img src="doc/Add-Post-Page-Sketch.png"><br>
-The 'Add Post' page will be available for students to share their own personal experiences.<br><br>
+The 'Add Post' page will be available for users to share their own personal experiences.<br><br>
 
 <img src="doc/Admin-Home-Page-Sketch.png"><br>
 For administrators, there will be a dedicated home page for managing the platform's operations.<br><br>
