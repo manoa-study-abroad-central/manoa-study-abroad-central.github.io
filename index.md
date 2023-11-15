@@ -42,9 +42,9 @@ Our project follows the Issue Driven Project Management (IDPM) guidelines. We wi
 
 ## Development History
 ### Final Project: [Milestone 1](https://github.com/orgs/manoa-study-abroad-central/projects/6)<br>
-Current State of the Project<br>
+Current State of the Project:<br><br>
 <img src="doc/M1-LandingPage.png"><br>
-Setup the landing page with a concise overview of the website and listed the different programs available to the user.<br><br>
+We setup the landing page to provide a concise overview of the website and listed the different programs available to the user.<br><br>
 <img src="doc/M1-RegisterPage.png"><br>
 Users are able to register an account.<br><br>
 <img src="doc/M1-LoginPage.png"><br>
