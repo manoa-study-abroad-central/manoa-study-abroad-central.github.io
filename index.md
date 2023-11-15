@@ -45,10 +45,6 @@ Our project follows the Issue Driven Project Management (IDPM) guidelines. We wi
 Current State of the Project:<br><br>
 <img src="doc/M1-LandingPage.png"><br>
 We setup the landing page to provide a concise overview of the website and listed the different programs available to the user.<br><br>
-<img src="doc/M1-RegisterPage.png"><br>
-Users are able to register an account.<br><br>
-<img src="doc/M1-LoginPage.png"><br>
-Once the user has registered their account they can login.<br><br>
 <img src="doc/M1-AddPostPage.png"><br>
 Users that are logged in are able to access the 'Add Post' page. Here they are prompted for a tile and body for their post. They can also set their privacy options.<br><br>
 <img src="doc/M1-ProgramSelectionPage.png"><br>
