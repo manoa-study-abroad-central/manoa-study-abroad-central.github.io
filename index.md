@@ -42,7 +42,17 @@ Our project follows the Issue Driven Project Management (IDPM) guidelines. We wi
 
 ## Development History
 ### Final Project: [Milestone 1](https://github.com/orgs/manoa-study-abroad-central/projects/6)<br>
-#### Current State of the Project
+Current State of the Project
+<img src="doc/M1-LandingPage.png"><br>
+Setup the landing page with a concise overview of the website and listed the different programs available to the user.<br>
+<img src="doc/M1-RegisterPage.png"><br>
+Users are able to register an account.<br>
+<img src="doc/M1-LoginPage.png"><br>
+Once the user has registered their account they can login.<br>
+<img src="doc/M1-AddPostPage.png"><br>
+Users that are logged in are able to access the 'Add Post' page. Here they are prompted for a tile and body for their post. They can also set their privacy options.<br>
+<img src="doc/M1-AdminPostPage.png"><br>
+Here, users can view all posts, remove posts, or flag posts. 
 
 ### Final Project: [Milestone 2](https://github.com/orgs/manoa-study-abroad-central/projects/9/views/1)<br>
 ### Final Project: [Milestone 3](https://github.com/orgs/manoa-study-abroad-central/projects/8/views/1)<br>
