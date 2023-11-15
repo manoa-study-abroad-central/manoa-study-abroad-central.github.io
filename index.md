@@ -60,10 +60,9 @@ Here, admin can view all posts, remove posts, or flag posts.
 ### Final Project: [Milestone 3](https://github.com/orgs/manoa-study-abroad-central/projects/8/views/1)<br>
 
 ## Links
+[Github Organization](https://github.com/manoa-study-abroad-central/manoa-study-abroad-central.github.io/tree/main)
 [Team Contract](https://docs.google.com/document/d/1Yv8-43MoE4xzP9Gig0bwpPvJU8siF7iYQRA5ayEzNgk/edit?usp=sharing)
 [Project Proposal](https://mair1.github.io/essays/final-project-idea.html)
 [IDPM Guidelines](https://courses.ics.hawaii.edu/ics314f23/morea/project-management/reading-guidelines-idpm.html)
-[Milestone 1](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/experience-final-project-m1.html)
-[Milestone 2](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/experience-final-project-m2.html)
-[Milestone 3](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/experience-final-project-m3.html)
+
 
