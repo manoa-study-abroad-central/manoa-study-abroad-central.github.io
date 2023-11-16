@@ -50,9 +50,9 @@ Users that are logged in are able to access the 'Add Post' page. Here they are p
 <img src="doc/M1-ProgramSelectionPage.png"><br>
 Users will be able to select the country/region or programs they are interested in.<br><br>
 <img src="doc/M1-AdminPostPage.png"><br>
-Here, admin can view all posts, remove posts, or flag posts. 
-The admin homepage allows for administrators to view statistics and moderate posts
-<img src="doc/m1adminHomePage.png">
+Here, admin can view all posts, remove posts, or flag posts.<br><br>
+<img src="doc/m1adminHomePage.png"><br>
+The admin homepage allows for administrators to view statistics and moderate posts.
 
 ### Final Project: [Milestone 2](https://github.com/orgs/manoa-study-abroad-central/projects/9/views/1)<br>
 ### Final Project: [Milestone 3](https://github.com/orgs/manoa-study-abroad-central/projects/8/views/1)<br>
