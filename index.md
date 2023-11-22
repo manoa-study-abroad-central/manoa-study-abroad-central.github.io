@@ -31,6 +31,9 @@ Here, admin can view all posts, remove posts, or flag posts.<br><br>
 <img src="doc/m1adminHomePage.png"><br>
 The admin homepage allows for administrators to view statistics and moderate posts.
 
+![ci-badge](https://github.com/manoa-study-abroad-central/manoa-study-abroad-central/workflows/ci-manoa-study-abroad-central/badge.svg)
+
+
 ### Final Project: [Milestone 2](https://github.com/orgs/manoa-study-abroad-central/projects/9/views/1)<br>
 ### Final Project: [Milestone 3](https://github.com/orgs/manoa-study-abroad-central/projects/8/views/1)<br>
 
