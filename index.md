@@ -14,6 +14,23 @@ Manoa Study Abroad Central is a digital platform dedicated to simplifying the pr
 ## Strategy
 Our project follows the Issue Driven Project Management (IDPM) guidelines. We will be holding our meetings twice a week, specifically on Mondays and Thursdays from 5-6 PM via discord. We will be breaking our work into 72-hour tasks, each one logged as a GitHub issue. Every team member will take on two tasks, ensuring shared responsibility and progress. To track our development, we will establish milestones every 7-14 days. 
 
+## Developer Guide
+
+<strong>Step 1.</strong> Install [Meteor](https://www.meteor.com/developers/install), by following these steps according to your operating system. 
+
+<strong>Step 2.</strong> Create your own version using the template. You can do this by clicking on the original template through our page, where it says generated from, and click "use this template."
+
+<strong>Step3.</strong> Once you've downloaded the template to your computer, change directories (cd) into the app/ directory and install packages with:
+```
+$ meteor npm install
+```
+<strong>Step 4.</strong> Run the system with:
+```
+$ meteor npm run start
+```
+<strong>Step 5.</strong> If everything is done correctly, the application should appear at http://localhost:3000/
+
+
 ## Deployment
 [Manoa Study Abroad Central](https://manoa-study-abroad-central.xyz)
 
