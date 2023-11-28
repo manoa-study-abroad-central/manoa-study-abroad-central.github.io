@@ -2,7 +2,7 @@
 **Manoa Study Abroad Central Your Guide to the World**<br>
 
 ### Table of Contents
-- [What is it](#what-is-it)
+- [Overview](#what-is-it)
 - [User Guide](#user-guide)
 - [Team Members](#team-members)
 - [Strategy](#Strategy)
