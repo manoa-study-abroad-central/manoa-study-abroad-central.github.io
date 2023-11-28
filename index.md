@@ -28,7 +28,7 @@ $ meteor npm install
 ```
 $ meteor npm run start
 ```
-<strong>Step 5.</strong> If everything is done correctly, the application should appear at [http://localhost:3000]( http://localhost:3000)
+<strong>Step 5.</strong> If everything is done correctly, the application should appear at [http://localhost:3000]( http://localhost:3000).
 
 
 ## Deployment
