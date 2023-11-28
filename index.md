@@ -16,7 +16,7 @@ Our project follows the Issue Driven Project Management (IDPM) guidelines. We wi
 
 ## Developer Guide
 
-<strong>Step 1.</strong> Install [Meteor](https://www.meteor.com/developers/install), by following these steps according to your operating system. 
+<strong>Step 1.</strong> Install [Meteor](https://www.meteor.com/developers/install), by following the steps according to your operating system. 
 
 <strong>Step 2.</strong> Create your own version using the template. You can do this by clicking on the original template through our page, where it says generated from, and click "use this template."
 
