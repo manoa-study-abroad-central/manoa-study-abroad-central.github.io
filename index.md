@@ -7,6 +7,7 @@
 - [Team Members](#team-members)
 - [Strategy](#Strategy)
 - [Developer Guide](#developer-guide)
+- [Deployment](#Deployment)
 - [Development History](#development-History)
 <br>
 
