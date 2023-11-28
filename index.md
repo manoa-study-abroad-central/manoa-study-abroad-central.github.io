@@ -2,10 +2,10 @@
 **Manoa Study Abroad Central Your Guide to the World**<br>
 
 ### Table of Contents
-- [Overview](#overview)
+- [Overview](#what-is-it)
 - [User Guide](#user-guide)
 - [Developer Guide](#developer-guide)
-- [Developer History](#developer-history)
+- [Development History](#development-History)
 - [Team Members](#team-members)
 
 
