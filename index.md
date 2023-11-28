@@ -14,21 +14,21 @@ Manoa Study Abroad Central is a digital platform dedicated to simplifying the pr
 
 ## User Guide
 <img src="doc/M2-LandingPage.png"><br>
-Landing Page:To provide a concise overview of the website and listed the different programs available to the user.<br>
+**Landing Page:** To provide a concise overview of the website and listed the different programs available to the user.<br>
 
 <img src="doc/M2-AddPosts.png"><br>
-Add Posts:Users that are logged in are able to access the 'Add Post'page.  Here they are prompted for a Tile, Name, Program, Country region, Description for their post.<br>
+**Add Posts:** Users that are logged in are able to access the 'Add Post'page.  Here they are prompted for a Tile, Name, Program, Country region, Description for their post.<br>
 
 <img src="doc/M2-UserPosts.png"><br>
-User Posts:This page displays posts made by users, each with a title, program, country/region, and a description of the content of the post.<br>
+**User Posts:** This page displays posts made by users, each with a title, program, country/region, and a description of the content of the post.<br>
 
 <img src="doc/M2-Programs.png"><br>
-Programs:Users will be able to select the country/region or programs they are interested in.<br>
+**Programs:** Users will be able to select the country/region or programs they are interested in.<br>
 
 <img src="doc/M2-Programs-MIX.png"><br>
 <img src="doc/M2-Programs-SAC.png"><br>
 <img src="doc/M2-Programs-NSE.png"><br>
-Programs Introduction: <br>
+**Programs Introduction:** When the user selects the project he wants to know, click Search, the page will go to the corresponding study abroad program introduction page <br>
 
 
 ## Team Members
