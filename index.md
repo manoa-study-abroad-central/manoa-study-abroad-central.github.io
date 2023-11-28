@@ -28,7 +28,19 @@ Manoa Study Abroad Central is a digital platform dedicated to simplifying the pr
 <img src="doc/M2-Programs-MIX.png"><br>
 <img src="doc/M2-Programs-SAC.png"><br>
 <img src="doc/M2-Programs-NSE.png"><br>
-**Programs Introduction Page:** When the user selects the project he wants to know, click Search, the page will go to the corresponding study abroad program introduction page <br>
+**Programs Introduction Page:** When the user selects the project they want to know, click Search, the page will go to the corresponding study abroad program introduction page <br>
+
+<img src="doc/M2-ChooseCountryPosts.png"><br>
+**Specific Country/Region Posts:** After the user selects the country/Region they want to know, click "Search" and the page displays all posts from the selected country.<br>
+
+<img src="doc/M2-ListPrograms.png"><br>
+**ListPrograms:** This page shows study abroad programs with information about school, country, region, description, etc.<br>
+
+<img src="doc/M2-AdminPost-EditPost.png"><br>
+**AdminPost:** Here, admin can view all posts, remove posts, or edit posts.<br>
+
+<img src="doc/M2-AdminHome.png"><br>
+**AdminHome:** The admin homepage allows for administrators to view statistics and moderate posts.<br>
 
 
 ## Team Members
