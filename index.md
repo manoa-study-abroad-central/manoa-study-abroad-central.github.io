@@ -49,11 +49,11 @@ Manoa Study Abroad Central is a digital platform dedicated to simplifying the pr
 ## Community Feedback
 
 ## Team Members
-• Junlang Chen<br>
-• Victoria Ka'aihili<br>
-• Masaya Oda<br>
+• [Junlang Chen](https://junlangchengt.github.io/)<br>
+• [Victoria Ka'aihili](https://kamanelelehua.github.io/)<br>
+• [Masaya Oda](https://omasaya.github.io/)<br>
 • [Yi Peng](https://yipengk.github.io/)<br>
-• Karissa Tabadero<br>
+• [Karissa Tabadero](https://karissat2.github.io/)<br>
 
 ## Strategy
 Our project follows the Issue Driven Project Management (IDPM) guidelines. We will be holding our meetings twice a week, specifically on Mondays and Thursdays from 5-6 PM via discord. We will be breaking our work into 72-hour tasks, each one logged as a GitHub issue. Every team member will take on two tasks, ensuring shared responsibility and progress. To track our development, we will establish milestones every 7-14 days. 
