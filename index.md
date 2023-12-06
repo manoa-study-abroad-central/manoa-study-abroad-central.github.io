@@ -4,6 +4,7 @@
 ### Table of Contents
 - [Overview](#overview)
 - [User Guide](#user-guide)
+- [Community Feedback](#Community-Feedback)
 - [Team Members](#team-members)
 - [Strategy](#Strategy)
 - [Developer Guide](#developer-guide)
@@ -44,6 +45,8 @@ Manoa Study Abroad Central is a digital platform dedicated to simplifying the pr
 <img src="doc/M2-AdminHome.png"><br>
 **AdminHome:** The admin homepage allows for administrators to view statistics and moderate posts.<br>
 <br>
+
+## Community Feedback
 
 ## Team Members
 • Junlang Chen<br>
