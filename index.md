@@ -52,7 +52,7 @@ Manoa Study Abroad Central is a digital platform dedicated to simplifying the pr
 • Junlang Chen<br>
 • Victoria Ka'aihili<br>
 • Masaya Oda<br>
-• Yi Peng<br>
+• [Yi Peng](https://yipengk.github.io/)<br>
 • Karissa Tabadero<br>
 
 ## Strategy
