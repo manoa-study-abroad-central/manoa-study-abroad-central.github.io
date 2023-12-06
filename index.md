@@ -7,9 +7,9 @@
 - [Community Feedback](#Community-Feedback)
 - [Team Members](#team-members)
 - [Strategy](#Strategy)
-- [Developer Guide](#developer-guide)
+- [Developer Guide](#Developer-guide)
 - [Deployment](#Deployment)
-- [Development History](#development-History)
+- [Development History](#Development-History)
 <br>
 
 ## Overview
