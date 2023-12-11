@@ -47,6 +47,11 @@ Manoa Study Abroad Central is a digital platform dedicated to simplifying the pr
 <br>
 
 ## Community Feedback
+We conducted a survey with 5 University of Hawaii students about Manoa Study Abroad Central, and the feedback was overall very positive. These students found the process of creating an account and logging in to be simple and user-friendly. They also liked how the webpage looked and found it easy to navigate the site.<br>
+
+In testing features like the 'Add Post' function, all agreed it was intuitive and user-friendly. The testimonial page stood out as a particularly helpful resource for students considering studying abroad, offering valuable insights from those who have already experienced it. Overall, these students felt the website was a great tool, filled with useful information to help guide their decisions about studying abroad programs.
+
+
 
 ## Team Members
 • [Junlang Chen](https://junlangchengt.github.io/)<br>
