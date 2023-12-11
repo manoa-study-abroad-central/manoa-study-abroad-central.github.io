@@ -84,8 +84,8 @@ $ meteor npm run start
 [Manoa Study Abroad Central](https://manoa-study-abroad-central.xyz)
 
 ## Development History
-### Final Project: [Milestone 1](https://github.com/orgs/manoa-study-abroad-central/projects/6)<br>
 [![ci-badge](https://github.com/manoa-study-abroad-central/manoa-study-abroad-central/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-study-abroad-central/manoa-study-abroad-central/actions/workflows/ci.yml)
+### Final Project: [Milestone 1](https://github.com/orgs/manoa-study-abroad-central/projects/6)<br>
 ### Final Project: [Milestone 2](https://github.com/orgs/manoa-study-abroad-central/projects/9/views/1)<br>
 ### Final Project: [Milestone 3](https://github.com/orgs/manoa-study-abroad-central/projects/8/views/1)<br>
 
