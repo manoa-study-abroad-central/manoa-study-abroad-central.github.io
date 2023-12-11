@@ -16,33 +16,34 @@
 Manoa Study Abroad Central is a digital platform dedicated to simplifying the process of choosing a study abroad or exchange program at UH Manoa. It will be a user-friendly website designed to help students understand the various programs available to them, including the Manoa International Exchange (MIX), Study Abroad Center, and National Student Exchange (NSE). Since these programs offer different types of experiences, it can be hard for students to determine which study abroad program is best for their wants and needs. This site aims to clarify program details and provide clear comparisons to assist students in making informed decisions about their international educational experiences. It will also include testimonials from peers who have previously participated in these programs, offering valuable insights into the benefits and potential challenges of each option.<br>
 <br>
 ## User Guide
-<img src="doc/M2-LandingPage.png"><br>
+<img src="doc/M3-LandingPage.png"><br>
 **Landing Page:** To provide a concise overview of the website and listed the different programs available to the user.<br>
 <br>
-<img src="doc/M2-AddPosts.png"><br>
-**Add Posts:** Users that are logged in are able to access the 'Add Post'page.  Here they are prompted for a Tile, Name, Program, Country region, Description for their post.<br>
+<img src="doc/M3-AddPosts.png"><br>
+**Add Posts:** Users that are logged in are able to access the 'Add Post'page.  Here they are prompted for a Tile, Name, Program, Country region, Description for their post. Viewers can also 'comment' or 'like' posts<br>
 <br>
-<img src="doc/M2-UserPosts.png"><br>
+<img src="doc/M3-UserPosts.png"><br>
 **User Posts:** This page displays posts made by users, each with a title, program, country/region, and a description of the content of the post.<br>
 <br>
-<img src="doc/M2-Programs.png"><br>
+<img src="doc/M3-Programs.png"><br>
 **Programs:** Users will be able to select the country/region or programs they are interested in.<br>
 <br>
-<img src="doc/M2-Programs-MIX.png"><br>
-<img src="doc/M2-Programs-SAC.png"><br>
-<img src="doc/M2-Programs-NSE.png"><br>
+<img src="doc/M3-Programs-MIX.png"><br>
+<img src="doc/M3-Programs-SAC.png"><br>
+<img src="doc/M3-Programs-NSE.png"><br>
 **Programs Introduction Page:** When the user selects the project they want to know, click Search, the page will go to the corresponding study abroad program introduction page <br>
 <br>
-<img src="doc/M2-ChooseCountryPosts.png"><br>
+<img src="doc/M3-ChooseCountryPosts.png"><br>
 **Specific Country/Region Posts:** After the user selects the country/Region they want to know, click "Search" and the page displays all posts from the selected country.<br>
 <br>
-<img src="doc/M2-ListPrograms.png"><br>
+<img src="doc/M3-ListPrograms.png"><br>
 **ListPrograms:** This page shows study abroad programs with information about school, country, region, description, etc.<br>
 <br>
-<img src="doc/M2-AdminPost-EditPost.png"><br>
+<img src="doc/M3-AdminPost.png"><br>
+<img src="doc/M3-AdminPost-EditPost.png"><br>
 **AdminPost:** Here, admin can view all posts, remove posts, or edit posts.<br>
 <br>
-<img src="doc/M2-AdminHome.png"><br>
+<img src="doc/M3-AdminHome.png"><br>
 **AdminHome:** The admin homepage allows for administrators to view statistics and moderate posts.<br>
 <br>
 
