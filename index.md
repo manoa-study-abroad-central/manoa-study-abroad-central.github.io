@@ -17,8 +17,8 @@ Manoa Study Abroad Central is a digital platform dedicated to simplifying the pr
 <br>
 ## User Guide
 <img src="doc/M3-LandingPage1.png"><br>
-<img src="doc/M3-LandingPage2.png"><br>
-<img src="doc/M3-LandingPage3.png"><br>
+<img src="doc/M3-LandingPage22.png"><br>
+<img src="doc/M3-LandingPage33.png"><br>
 **Landing Page:** To provide a concise overview of the website and listed the different programs available to the user.<br>
 <br>
 <img src="doc/M3-AddPosts.png"><br>
