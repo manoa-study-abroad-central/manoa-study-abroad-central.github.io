@@ -1,6 +1,6 @@
 <img src="doc/study-abroad-clipart.jpg">
 **Manoa Study Abroad Central**<br>
-Your Guide to the World<br>
+_Your Guide to the World_<br>
 
 ### Table of Contents
 - [Overview](#overview)
